@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "category": "Bible Characters",
+    "difficulty": "easy",
+    "question": "Who was the first person to build an altar to God after the flood?",
+    "options": ["Abraham", "Noah", "Moses", "Isaac"],
+    "answer": "Noah"
+  },
+  {
+    "id": 2,
+    "category": "Old Testament Stories",
+    "difficulty": "easy",
+    "question": "How many days and nights did it rain during the great flood?",
+    "options": ["20 days and nights", "30 days and nights", "40 days and nights", "50 days and nights"],
+    "answer": "40 days and nights"
+  },
+  {
+    "id": 3,
+    "category": "Bible Characters",
+    "difficulty": "easy",
+    "question": "Who was swallowed by a great fish?",
+    "options": ["Elijah", "Jonah", "Ezekiel", "Amos"],
+    "answer": "Jonah"
+  },
+  {
+    "id": 4,
+    "category": "New Testament",
+    "difficulty": "easy",
+    "question": "In which city was Jesus born?",
+    "options": ["Nazareth", "Jerusalem", "Bethlehem", "Jericho"],
+    "answer": "Bethlehem"
+  },
+  {
+    "id": 5,
+    "category": "Bible Characters",
+    "difficulty": "easy",
+    "question": "Who was the mother of Jesus?",
+    "options": ["Elizabeth", "Mary", "Martha", "Miriam"],
+    "answer": "Mary"
+  },
+  {
+    "id": 6,
+    "category": "Old Testament Stories",
+    "difficulty": "easy",
+    "question": "What did God create on the first day?",
+    "options": ["The sky", "Land and sea", "Light", "The sun and moon"],
+    "answer": "Light"
+  },
+  {
+    "id": 7,
+    "category": "New Testament",
+    "difficulty": "easy",
+    "question": "How many disciples did Jesus have?",
+    "options": ["10", "11", "12", "13"],
+    "answer": "12"
+  },
+  {
+    "id": 8,
+    "category": "Psalms & Poetry",
+    "difficulty": "easy",
+    "question": "Who wrote most of the Psalms?",
+    "options": ["Solomon", "Moses", "David", "Asaph"],
+    "answer": "David"
+  },
+  {
+    "id": 9,
+    "category": "Old Testament Stories",
+    "difficulty": "easy",
+    "question": "What did God use to part the Red Sea for Moses?",
+    "options": ["A strong wind", "Moses struck the sea", "Moses raised his staff", "An angel"],
+    "answer": "Moses raised his staff"
+  },
+  {
+    "id": 10,
+    "category": "Bible Characters",
+    "difficulty": "easy",
+    "question": "Who was the first king of Israel?",
+    "options": ["David", "Solomon", "Saul", "Samuel"],
+    "answer": "Saul"
+  },
+  {
+    "id": 11,
+    "category": "New Testament",
+    "difficulty": "easy",
+    "question": "Who baptized Jesus?",
+    "options": ["Peter", "James", "John the Baptist", "Philip"],
+    "answer": "John the Baptist"
+  },
+  {
+    "id": 12,
+    "category": "Old Testament Stories",
+    "difficulty": "easy",
+    "question": "What food did God provide for the Israelites in the desert?",
+    "options": ["Bread and fish", "Manna and quail", "Figs and dates", "Honey and grain"],
+    "answer": "Manna and quail"
+  },
+  {
+    "id": 13,
+    "category": "Bible Characters",
+    "difficulty": "easy",
+    "question": "Who was known for his great strength and long hair?",
+    "options": ["Gideon", "Samson", "Goliath", "Joshua"],
+    "answer": "Samson"
+  },
+  {
+    "id": 14,
+    "category": "New Testament",
+    "difficulty": "easy",
+    "question": "What did Jesus turn water into at the wedding in Cana?",
+    "options": ["Milk", "Oil", "Wine", "Honey"],
+    "answer": "Wine"
+  },
+  {
+    "id": 15,
+    "category": "Old Testament Stories",
+    "difficulty": "easy",
+    "question": "Who killed the giant Goliath?",
+    "options": ["Saul", "Jonathan", "David", "Samuel"],
+    "answer": "David"
+  },
+  {
+    "id": 16,
+    "category": "Bible Characters",
+    "difficulty": "easy",
+    "question": "Who was thrown into a den of lions?",
+    "options": ["Shadrach", "Ezekiel", "Daniel", "Nehemiah"],
+    "answer": "Daniel"
+  },
+  {
+    "id": 17,
+    "category": "New Testament",
+    "difficulty": "easy",
+    "question": "On which day did Jesus rise from the dead?",
+    "options": ["The first day", "The second day", "The third day", "The fourth day"],
+    "answer": "The third day"
+  },
+  {
+    "id": 18,
+    "category": "Old Testament Stories",
+    "difficulty": "easy",
+    "question": "What did God command Abraham to sacrifice before stopping him?",
+    "options": ["A lamb", "A dove", "His son Isaac", "His son Ishmael"],
+    "answer": "His son Isaac"
+  },
+  {
+    "id": 19,
+    "category": "Bible Characters",
+    "difficulty": "easy",
+    "question": "Who was the wisest king in the Bible?",
+    "options": ["David", "Hezekiah", "Solomon", "Josiah"],
+    "answer": "Solomon"
+  },
+  {
+    "id": 20,
+    "category": "New Testament",
+    "difficulty": "easy",
+    "question": "Which disciple denied Jesus three times?",
+    "options": ["James", "John", "Peter", "Thomas"],
+    "answer": "Peter"
+  },
+  {
+    "id": 21,
+    "category": "Old Testament Stories",
+    "difficulty": "medium",
+    "question": "How many plagues did God send on Egypt before Pharaoh released the Israelites?",
+    "options": ["7", "8", "10", "12"],
+    "answer": "10"
+  },
+  {
+    "id": 22,
+    "category": "Prophets",
+    "difficulty": "medium",
+    "question": "Which prophet was taken to heaven in a chariot of fire?",
+    "options": ["Elisha", "Isaiah", "Elijah", "Enoch"],
+    "answer": "Elijah"
+  },
+  {
+    "id": 23,
+    "category": "New Testament",
+    "difficulty": "medium",
+    "question": "What was the name of the tax collector Jesus called to follow him who later wrote a Gospel?",
+    "options": ["Zacchaeus", "Matthew", "Luke", "Barnabas"],
+    "answer": "Matthew"
+  },
+  {
+    "id": 24,
+    "category": "Bible Characters",
+    "difficulty": "medium",
+    "question": "Who was the mother-in-law of Ruth?",
+    "options": ["Naomi", "Orpah", "Hannah", "Deborah"],
+    "answer": "Naomi"
+  },
+  {
+    "id": 25,
+    "category": "Prophets",
+    "difficulty": "medium",
+    "question": "In which prophet's book does the famous 'Valley of Dry Bones' vision appear?",
+    "options": ["Isaiah", "Jeremiah", "Ezekiel", "Daniel"],
+    "answer": "Ezekiel"
+  },
+  {
+    "id": 26,
+    "category": "Old Testament Stories",
+    "difficulty": "medium",
+    "question": "How many years did the Israelites wander in the wilderness?",
+    "options": ["20 years", "30 years", "40 years", "50 years"],
+    "answer": "40 years"
+  },
+  {
+    "id": 27,
+    "category": "New Testament Epistles",
+    "difficulty": "medium",
+    "question": "Who wrote the book of Romans?",
+    "options": ["Peter", "James", "John", "Paul"],
+    "answer": "Paul"
+  },
+  {
+    "id": 28,
+    "category": "Bible Characters",
+    "difficulty": "medium",
+    "question": "Who was the first Christian martyr stoned to death?",
+    "options": ["James", "Stephen", "Philip", "Barnabas"],
+    "answer": "Stephen"
+  },
+  {
+    "id": 29,
+    "category": "Prophets",
+    "difficulty": "medium",
+    "question": "Which prophet confronted King David about his sin with Bathsheba?",
+    "options": ["Elijah", "Isaiah", "Nathan", "Gad"],
+    "answer": "Nathan"
+  },
+  {
+    "id": 30,
+    "category": "Old Testament Stories",
+    "difficulty": "medium",
+    "question": "What material were the tablets of the Ten Commandments made from?",
+    "options": ["Wood", "Clay", "Gold", "Stone"],
+    "answer": "Stone"
+  },
+  {
+    "id": 31,
+    "category": "New Testament",
+    "difficulty": "medium",
+    "question": "Which woman is credited with anointing Jesus's feet with expensive perfume?",
+    "options": ["Mary Magdalene", "Martha", "Mary of Bethany", "Salome"],
+    "answer": "Mary of Bethany"
+  },
+  {
+    "id": 32,
+    "category": "Bible Characters",
+    "difficulty": "medium",
+    "question": "Who was the father of John the Baptist?",
+    "options": ["Simeon", "Zechariah", "Joseph", "Joachim"],
+    "answer": "Zechariah"
+  },
+  {
+    "id": 33,
+    "category": "Prophets",
+    "difficulty": "medium",
+    "question": "Which prophet was known as the 'weeping prophet'?",
+    "options": ["Isaiah", "Jeremiah", "Hosea", "Micah"],
+    "answer": "Jeremiah"
+  },
+  {
+    "id": 34,
+    "category": "New Testament",
+    "difficulty": "medium",
+    "question": "On which mountain was Jesus transfigured before Peter, James, and John?",
+    "options": ["Mount Sinai", "Mount Hermon", "Mount of Olives", "Mount Tabor"],
+    "answer": "Mount Hermon"
+  },
+  {
+    "id": 35,
+    "category": "Old Testament Stories",
+    "difficulty": "medium",
+    "question": "Who led the Israelites after Moses died?",
+    "options": ["Caleb", "Aaron", "Joshua", "Eleazar"],
+    "answer": "Joshua"
+  },
+  {
+    "id": 36,
+    "category": "Apostles",
+    "difficulty": "medium",
+    "question": "Which apostle was a physician?",
+    "options": ["Mark", "Luke", "John", "Titus"],
+    "answer": "Luke"
+  },
+  {
+    "id": 37,
+    "category": "Psalms & Poetry",
+    "difficulty": "medium",
+    "question": "Which book of the Bible contains the phrase 'Vanity of vanities, all is vanity'?",
+    "options": ["Psalms", "Proverbs", "Ecclesiastes", "Song of Solomon"],
+    "answer": "Ecclesiastes"
+  },
+  {
+    "id": 38,
+    "category": "Bible Characters",
+    "difficulty": "medium",
+    "question": "Who was the queen who hid two Israelite spies in Jericho?",
+    "options": ["Rahab", "Deborah", "Tamar", "Ruth"],
+    "answer": "Rahab"
+  },
+  {
+    "id": 39,
+    "category": "New Testament",
+    "difficulty": "medium",
+    "question": "How many loaves of bread did Jesus use to feed the five thousand?",
+    "options": ["2", "5", "7", "12"],
+    "answer": "5"
+  },
+  {
+    "id": 40,
+    "category": "Prophets",
+    "difficulty": "medium",
+    "question": "Which prophet was asked to marry an unfaithful woman as a symbol of Israel's unfaithfulness to God?",
+    "options": ["Amos", "Joel", "Hosea", "Micah"],
+    "answer": "Hosea"
+  },
+  {
+    "id": 41,
+    "category": "Old Testament Stories",
+    "difficulty": "medium",
+    "question": "What was the name of the tower people tried to build to reach heaven?",
+    "options": ["Tower of Siloam", "Tower of Babel", "Tower of Peniel", "Tower of Shechem"],
+    "answer": "Tower of Babel"
+  },
+  {
+    "id": 42,
+    "category": "New Testament Epistles",
+    "difficulty": "medium",
+    "question": "Which letter did Paul write to a man about his runaway slave Onesimus?",
+    "options": ["Titus", "Philemon", "Colossians", "Philippians"],
+    "answer": "Philemon"
+  },
+  {
+    "id": 43,
+    "category": "Bible Characters",
+    "difficulty": "medium",
+    "question": "Which judge of Israel was a woman?",
+    "options": ["Hannah", "Deborah", "Miriam", "Abigail"],
+    "answer": "Deborah"
+  },
+  {
+    "id": 44,
+    "category": "Old Testament Stories",
+    "difficulty": "medium",
+    "question": "What was the name of Abraham's first son born to Hagar?",
+    "options": ["Isaac", "Ishmael", "Esau", "Midian"],
+    "answer": "Ishmael"
+  },
+  {
+    "id": 45,
+    "category": "New Testament",
+    "difficulty": "medium",
+    "question": "What was Paul's name before his conversion?",
+    "options": ["Silas", "Saul", "Simon", "Sergius"],
+    "answer": "Saul"
+  },
+  {
+    "id": 46,
+    "category": "Prophets",
+    "difficulty": "medium",
+    "question": "Which minor prophet predicted the birth of Jesus in Bethlehem?",
+    "options": ["Zechariah", "Micah", "Malachi", "Haggai"],
+    "answer": "Micah"
+  },
+  {
+    "id": 47,
+    "category": "Bible Characters",
+    "difficulty": "medium",
+    "question": "Who was the father-in-law of Moses?",
+    "options": ["Laban", "Jethro", "Hobab", "Reuel"],
+    "answer": "Jethro"
+  },
+  {
+    "id": 48,
+    "category": "New Testament",
+    "difficulty": "medium",
+    "question": "How many fish were caught in the miraculous catch described in John 21?",
+    "options": ["100", "143", "153", "200"],
+    "answer": "153"
+  },
+  {
+    "id": 49,
+    "category": "Old Testament Stories",
+    "difficulty": "medium",
+    "question": "Which of Joseph's brothers suggested selling him rather than killing him?",
+    "options": ["Judah", "Reuben", "Simeon", "Levi"],
+    "answer": "Reuben"
+  },
+  {
+    "id": 50,
+    "category": "Apostles",
+    "difficulty": "medium",
+    "question": "Which apostle walked on water toward Jesus?",
+    "options": ["John", "James", "Andrew", "Peter"],
+    "answer": "Peter"
+  },
+  {
+    "id": 51,
+    "category": "Prophets",
+    "difficulty": "hard",
+    "question": "In Isaiah's vision, how many wings did each seraph have?",
+    "options": ["2", "4", "6", "8"],
+    "answer": "6"
+  },
+  {
+    "id": 52,
+    "category": "Old Testament Details",
+    "difficulty": "hard",
+    "question": "How many years did Solomon take to build the temple?",
+    "options": ["5 years", "7 years", "10 years", "12 years"],
+    "answer": "7 years"
+  },
+  {
+    "id": 53,
+    "category": "Bible Characters",
+    "difficulty": "hard",
+    "question": "Who was the king of Salem and priest of God Most High who blessed Abraham?",
+    "options": ["Abimelech", "Melchizedek", "Lot", "Aner"],
+    "answer": "Melchizedek"
+  },
+  {
+    "id": 54,
+    "category": "New Testament Details",
+    "difficulty": "hard",
+    "question": "What was the name of the man in whose tomb Jesus was buried?",
+    "options": ["Nicodemus", "Simon of Cyrene", "Joseph of Arimathea", "Lazarus"],
+    "answer": "Joseph of Arimathea"
+  },
+  {
+    "id": 55,
+    "category": "Prophets",
+    "difficulty": "hard",
+    "question": "Which prophet saw a vision of four living creatures with four faces each?",
+    "options": ["Isaiah", "Daniel", "Ezekiel", "Zechariah"],
+    "answer": "Ezekiel"
+  },
+  {
+    "id": 56,
+    "category": "Old Testament Details",
+    "difficulty": "hard",
+    "question": "What were the names of Job's three original friends who came to comfort him?",
+    "options": ["Eliphaz, Bildad, and Zophar", "Elihu, Bildad, and Zophar", "Eliphaz, Elihu, and Nahor", "Uz, Bildad, and Elihu"],
+    "answer": "Eliphaz, Bildad, and Zophar"
+  },
+  {
+    "id": 57,
+    "category": "New Testament Epistles",
+    "difficulty": "hard",
+    "question": "In which city were the believers first called 'Christians'?",
+    "options": ["Jerusalem", "Rome", "Antioch", "Corinth"],
+    "answer": "Antioch"
+  },
+  {
+    "id": 58,
+    "category": "Bible Characters",
+    "difficulty": "hard",
+    "question": "Who was the high priest when Jesus was crucified?",
+    "options": ["Annas", "Caiaphas", "Ananias", "Simeon"],
+    "answer": "Caiaphas"
+  },
+  {
+    "id": 59,
+    "category": "Prophets",
+    "difficulty": "hard",
+    "question": "Which prophet was commanded to lie on his left side for 390 days and right side for 40 days?",
+    "options": ["Isaiah", "Jeremiah", "Ezekiel", "Hosea"],
+    "answer": "Ezekiel"
+  },
+  {
+    "id": 60,
+    "category": "Old Testament Details",
+    "difficulty": "hard",
+    "question": "How many years did Methuselah live, making him the oldest person in the Bible?",
+    "options": ["852 years", "969 years", "777 years", "900 years"],
+    "answer": "969 years"
+  },
+  {
+    "id": 61,
+    "category": "New Testament Details",
+    "difficulty": "hard",
+    "question": "What was the name of the sorcerer Paul struck blind on the island of Cyprus?",
+    "options": ["Simon Magus", "Elymas", "Sceva", "Demetrius"],
+    "answer": "Elymas"
+  },
+  {
+    "id": 62,
+    "category": "Prophets",
+    "difficulty": "hard",
+    "question": "Zechariah saw a vision of how many horses of different colors?",
+    "options": ["2 groups", "4 groups", "7 groups", "3 groups"],
+    "answer": "4 groups"
+  },
+  {
+    "id": 63,
+    "category": "Old Testament Details",
+    "difficulty": "hard",
+    "question": "Which tribe of Israel was given no land inheritance because they were set apart for priestly service?",
+    "options": ["Simeon", "Dan", "Levi", "Gad"],
+    "answer": "Levi"
+  },
+  {
+    "id": 64,
+    "category": "Apostles",
+    "difficulty": "hard",
+    "question": "Which apostle was martyred by being beheaded under King Herod Agrippa I?",
+    "options": ["Peter", "James the son of Zebedee", "Andrew", "Philip"],
+    "answer": "James the son of Zebedee"
+  },
+  {
+    "id": 65,
+    "category": "New Testament Details",
+    "difficulty": "hard",
+    "question": "How many days did Paul stay in Troas when he raised Eutychus from the dead?",
+    "options": ["3 days", "5 days", "7 days", "10 days"],
+    "answer": "7 days"
+  },
+  {
+    "id": 66,
+    "category": "Prophets",
+    "difficulty": "hard",
+    "question": "In Daniel chapter 7, what animal had eagle's wings in his first vision?",
+    "options": ["A bear", "A leopard", "A lion", "A ram"],
+    "answer": "A lion"
+  },
+  {
+    "id": 67,
+    "category": "Old Testament Details",
+    "difficulty": "hard",
+    "question": "What wood was the Ark of the Covenant made from?",
+    "options": ["Cedar wood", "Olive wood", "Acacia wood", "Oak wood"],
+    "answer": "Acacia wood"
+  },
+  {
+    "id": 68,
+    "category": "New Testament Details",
+    "difficulty": "hard",
+    "question": "What was the name of the woman who opened her home to Paul and his companions in Philippi?",
+    "options": ["Priscilla", "Phoebe", "Lydia", "Chloe"],
+    "answer": "Lydia"
+  },
+  {
+    "id": 69,
+    "category": "Prophets",
+    "difficulty": "hard",
+    "question": "Which prophet was the son of Beeri and prophesied during the reigns of Uzziah, Jotham, Ahaz, and Hezekiah?",
+    "options": ["Amos", "Micah", "Hosea", "Isaiah"],
+    "answer": "Hosea"
+  },
+  {
+    "id": 70,
+    "category": "Old Testament Details",
+    "difficulty": "hard",
+    "question": "What was the name of the Canaanite commander defeated by Deborah and Barak?",
+    "options": ["Sisera", "Sihon", "Og", "Cushan-rishathaim"],
+    "answer": "Sisera"
+  },
+  {
+    "id": 71,
+    "category": "New Testament Details",
+    "difficulty": "hard",
+    "question": "In the book of Revelation, what number is associated with the beast?",
+    "options": ["444", "616", "666", "999"],
+    "answer": "666"
+  },
+  {
+    "id": 72,
+    "category": "Bible Characters",
+    "difficulty": "hard",
+    "question": "Which man in the Bible never died but was taken directly to heaven by God before the flood?",
+    "options": ["Noah", "Methuselah", "Enoch", "Lamech"],
+    "answer": "Enoch"
+  },
+  {
+    "id": 73,
+    "category": "Prophets",
+    "difficulty": "hard",
+    "question": "Which prophet confronted King Ahab about his murder of Naboth to steal his vineyard?",
+    "options": ["Elisha", "Micaiah", "Elijah", "Jehu"],
+    "answer": "Elijah"
+  },
+  {
+    "id": 74,
+    "category": "Old Testament Details",
+    "difficulty": "hard",
+    "question": "In which book does the story of the Urim and Thummim first appear as tools for priestly divination?",
+    "options": ["Leviticus", "Numbers", "Exodus", "Deuteronomy"],
+    "answer": "Exodus"
+  },
+  {
+    "id": 75,
+    "category": "New Testament Epistles",
+    "difficulty": "hard",
+    "question": "To whom did Paul write the letter urging him to 'fan into flame the gift of God'?",
+    "options": ["Titus", "Timothy", "Philemon", "Silas"],
+    "answer": "Timothy"
+  },
+  {
+    "id": 76,
+    "category": "Old Testament Stories",
+    "difficulty": "easy",
+    "question": "What did Pharaoh's daughter name the baby she found in the river?",
+    "options": ["Aaron", "Joshua", "Moses", "Caleb"],
+    "answer": "Moses"
+  },
+  {
+    "id": 77,
+    "category": "New Testament",
+    "difficulty": "easy",
+    "question": "What was the name of the garden where Jesus was arrested?",
+    "options": ["Garden of Eden", "Garden of Gethsemane", "Garden of Nazareth", "Garden of Bethany"],
+    "answer": "Garden of Gethsemane"
+  },
+  {
+    "id": 78,
+    "category": "Bible Characters",
+    "difficulty": "easy",
+    "question": "Who built the first city according to Genesis?",
+    "options": ["Seth", "Abel", "Cain", "Enoch"],
+    "answer": "Cain"
+  },
+  {
+    "id": 79,
+    "category": "New Testament",
+    "difficulty": "easy",
+    "question": "What did Jesus feed the five thousand with besides five loaves of bread?",
+    "options": ["One fish", "Two fish", "Three fish", "Seven fish"],
+    "answer": "Two fish"
+  },
+  {
+    "id": 80,
+    "category": "Old Testament Stories",
+    "difficulty": "easy",
+    "question": "What was Samson's source of strength?",
+    "options": ["A special ring", "His long hair", "A golden sword", "His belt"],
+    "answer": "His long hair"
+  },
+  {
+    "id": 81,
+    "category": "Bible Characters",
+    "difficulty": "easy",
+    "question": "Who was the brother of Moses who became the first high priest of Israel?",
+    "options": ["Caleb", "Hur", "Aaron", "Joshua"],
+    "answer": "Aaron"
+  },
+  {
+    "id": 82,
+    "category": "New Testament",
+    "difficulty": "easy",
+    "question": "Which disciple betrayed Jesus for thirty pieces of silver?",
+    "options": ["Thomas", "Judas Iscariot", "Simon the Zealot", "Bartholomew"],
+    "answer": "Judas Iscariot"
+  },
+  {
+    "id": 83,
+    "category": "Old Testament Stories",
+    "difficulty": "easy",
+    "question": "What type of animal did God provide for Abraham to sacrifice instead of Isaac?",
+    "options": ["A goat", "A lamb", "A ram", "A dove"],
+    "answer": "A ram"
+  },
+  {
+    "id": 84,
+    "category": "New Testament",
+    "difficulty": "easy",
+    "question": "What was the name of the disciple who doubted Jesus's resurrection until he touched His wounds?",
+    "options": ["Philip", "Andrew", "Thomas", "Bartholomew"],
+    "answer": "Thomas"
+  },
+  {
+    "id": 85,
+    "category": "Psalms & Poetry",
+    "difficulty": "easy",
+    "question": "Complete this verse: 'The Lord is my shepherd, I shall not ___'",
+    "options": ["fall", "fear", "want", "fail"],
+    "answer": "want"
+  },
+  {
+    "id": 86,
+    "category": "Old Testament Stories",
+    "difficulty": "medium",
+    "question": "What happened to the three friends of Daniel who were thrown into the fiery furnace?",
+    "options": ["They died but were resurrected", "They were protected and unharmed", "They were burned but survived", "They were rescued by an angel before entering"],
+    "answer": "They were protected and unharmed"
+  },
+  {
+    "id": 87,
+    "category": "New Testament Epistles",
+    "difficulty": "medium",
+    "question": "According to Paul in 1 Corinthians 13, what is the greatest of faith, hope, and love?",
+    "options": ["Faith", "Hope", "Love", "All are equal"],
+    "answer": "Love"
+  },
+  {
+    "id": 88,
+    "category": "Bible Characters",
+    "difficulty": "medium",
+    "question": "Who was the Roman governor who sentenced Jesus to death?",
+    "options": ["Herod Antipas", "Pontius Pilate", "Felix", "Festus"],
+    "answer": "Pontius Pilate"
+  },
+  {
+    "id": 89,
+    "category": "Prophets",
+    "difficulty": "medium",
+    "question": "Which prophet was thrown into a cistern by officials for his unpopular prophecies?",
+    "options": ["Isaiah", "Jeremiah", "Amos", "Micah"],
+    "answer": "Jeremiah"
+  },
+  {
+    "id": 90,
+    "category": "Old Testament Stories",
+    "difficulty": "medium",
+    "question": "What did Jacob give Joseph that his brothers envied?",
+    "options": ["A gold ring", "A coat of many colors", "A piece of land", "A special blessing"],
+    "answer": "A coat of many colors"
+  },
+  {
+    "id": 91,
+    "category": "New Testament",
+    "difficulty": "medium",
+    "question": "In the parable of the Prodigal Son, what did the father give his returning son?",
+    "options": ["Silver coins", "A new house", "A robe, ring, and sandals", "A feast only"],
+    "answer": "A robe, ring, and sandals"
+  },
+  {
+    "id": 92,
+    "category": "Apostles",
+    "difficulty": "medium",
+    "question": "Which two apostles were brothers and also sons of Zebedee?",
+    "options": ["Peter and Andrew", "James and John", "Philip and Bartholomew", "Simon and Judas"],
+    "answer": "James and John"
+  },
+  {
+    "id": 93,
+    "category": "Bible Characters",
+    "difficulty": "medium",
+    "question": "Who was the Philistine woman who discovered the secret of Samson's strength?",
+    "options": ["Jezebel", "Delilah", "Orpah", "Tamar"],
+    "answer": "Delilah"
+  },
+  {
+    "id": 94,
+    "category": "Old Testament Details",
+    "difficulty": "medium",
+    "question": "How many sons did Jacob have?",
+    "options": ["10", "11", "12", "13"],
+    "answer": "12"
+  },
+  {
+    "id": 95,
+    "category": "New Testament Details",
+    "difficulty": "medium",
+    "question": "Where was Paul when he had a vision and was told 'Come over to Macedonia and help us'?",
+    "options": ["Antioch", "Athens", "Troas", "Ephesus"],
+    "answer": "Troas"
+  },
+  {
+    "id": 96,
+    "category": "Prophets",
+    "difficulty": "medium",
+    "question": "Which prophet in the New Testament era foretold that Agabus would bind his own hands and feet with Paul's belt?",
+    "options": ["John", "Philip's daughters", "Agabus himself", "Barnabas"],
+    "answer": "Agabus himself"
+  },
+  {
+    "id": 97,
+    "category": "Old Testament Stories",
+    "difficulty": "medium",
+    "question": "Which queen risked her life to approach the king uninvited in order to save her people?",
+    "options": ["Ruth", "Abigail", "Esther", "Bathsheba"],
+    "answer": "Esther"
+  },
+  {
+    "id": 98,
+    "category": "Bible Characters",
+    "difficulty": "medium",
+    "question": "Which man in the Bible was described as a man after God's own heart?",
+    "options": ["Abraham", "Moses", "David", "Solomon"],
+    "answer": "David"
+  },
+  {
+    "id": 99,
+    "category": "New Testament Epistles",
+    "difficulty": "medium",
+    "question": "Which book of the Bible contains the famous 'armor of God' passage?",
+    "options": ["Colossians", "Romans", "Ephesians", "Philippians"],
+    "answer": "Ephesians"
+  },
+  {
+    "id": 100,
+    "category": "Prophets",
+    "difficulty": "medium",
+    "question": "Which prophet called down fire from heaven on Mount Carmel to defeat the prophets of Baal?",
+    "options": ["Elisha", "Elijah", "Isaiah", "Samuel"],
+    "answer": "Elijah"
+  },
+  {
+    "id": 101,
+    "category": "Old Testament Details",
+    "difficulty": "hard",
+    "question": "What were the names of Moses's parents?",
+    "options": ["Amram and Jochebed", "Aaron and Miriam", "Kohath and Jochebed", "Amram and Zipporah"],
+    "answer": "Amram and Jochebed"
+  },
+  {
+    "id": 102,
+    "category": "New Testament Details",
+    "difficulty": "hard",
+    "question": "How many letters does Paul write to the church in Corinth in the New Testament canon?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "2"
+  },
+  {
+    "id": 103,
+    "category": "Prophets",
+    "difficulty": "hard",
+    "question": "In the book of Zechariah, how many gold lampstands appear in one vision?",
+    "options": ["1", "2", "7", "12"],
+    "answer": "1"
+  },
+  {
+    "id": 104,
+    "category": "Old Testament Details",
+    "difficulty": "hard",
+    "question": "What was the name of the mountain where Moses received the Ten Commandments?",
+    "options": ["Mount Nebo", "Mount Carmel", "Mount Sinai", "Mount Hermon"],
+    "answer": "Mount Sinai"
+  },
+  {
+    "id": 105,
+    "category": "New Testament Details",
+    "difficulty": "hard",
+    "question": "What was the name of the island where Paul was shipwrecked on his way to Rome?",
+    "options": ["Cyprus", "Crete", "Malta", "Rhodes"],
+    "answer": "Malta"
+  },
+  {
+    "id": 106,
+    "category": "Bible Characters",
+    "difficulty": "hard",
+    "question": "Who was the king of Nineveh when Jonah preached there?",
+    "options": ["The text names him only as the king", "Sennacherib", "Tiglath-Pileser", "Shalmaneser"],
+    "answer": "The text names him only as the king"
+  },
+  {
+    "id": 107,
+    "category": "Prophets",
+    "difficulty": "hard",
+    "question": "Which prophet in the Old Testament was a contemporary of Isaiah and prophesied about Bethlehem and the Assyrian invasion?",
+    "options": ["Joel", "Nahum", "Micah", "Obadiah"],
+    "answer": "Micah"
+  },
+  {
+    "id": 108,
+    "category": "Old Testament Details",
+    "difficulty": "hard",
+    "question": "In which book does God speak to a man from a whirlwind after long chapters of debate with his friends?",
+    "options": ["Psalms", "Proverbs", "Job", "Ecclesiastes"],
+    "answer": "Job"
+  },
+  {
+    "id": 109,
+    "category": "New Testament Details",
+    "difficulty": "hard",
+    "question": "To which seven churches were the letters in Revelation addressed?",
+    "options": ["Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, Laodicea", "Jerusalem, Antioch, Corinth, Philippi, Rome, Thessalonica, Colossae", "Ephesus, Corinth, Galatia, Philippi, Rome, Smyrna, Thyatira", "Athens, Corinth, Pergamum, Smyrna, Sardis, Philadelphia, Laodicea"],
+    "answer": "Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, Laodicea"
+  },
+  {
+    "id": 110,
+    "category": "Apostles",
+    "difficulty": "hard",
+    "question": "According to tradition, which apostle preached in India and was martyred there?",
+    "options": ["Andrew", "Philip", "Thomas", "Bartholomew"],
+    "answer": "Thomas"
+  },
+  {
+    "id": 111,
+    "category": "Old Testament Details",
+    "difficulty": "hard",
+    "question": "What was Gideon's other name given to him by God?",
+    "options": ["Jerubbaal", "Jerubbesheth", "Jerubbaal-mattan", "Jerub-baal"],
+    "answer": "Jerubbaal"
+  },
+  {
+    "id": 112,
+    "category": "New Testament Epistles",
+    "difficulty": "hard",
+    "question": "In Galatians, how many fruits of the Spirit does Paul list?",
+    "options": ["7", "8", "9", "12"],
+    "answer": "9"
+  },
+  {
+    "id": 113,
+    "category": "Prophets",
+    "difficulty": "hard",
+    "question": "Which prophet's name means 'burden' or 'oracle' and wrote a book about the fall of Nineveh?",
+    "options": ["Obadiah", "Habakkuk", "Nahum", "Zephaniah"],
+    "answer": "Nahum"
+  },
+  {
+    "id": 114,
+    "category": "Old Testament Details",
+    "difficulty": "hard",
+    "question": "According to the law of Moses, how many witnesses were required to convict someone of a capital offense?",
+    "options": ["One", "Two", "Three", "Four"],
+    "answer": "Two"
+  },
+  {
+    "id": 115,
+    "category": "New Testament Details",
+    "difficulty": "hard",
+    "question": "What was the name of the centurion in Acts whose prayers led to Peter being sent to him?",
+    "options": ["Julius", "Cornelius", "Claudius Lysias", "Sergius Paulus"],
+    "answer": "Cornelius"
+  },
+  {
+    "id": 116,
+    "category": "Bible Characters",
+    "difficulty": "hard",
+    "question": "Who replaced Judas Iscariot as the twelfth apostle?",
+    "options": ["Barnabas", "Matthias", "Silas", "Timothy"],
+    "answer": "Matthias"
+  },
+  {
+    "id": 117,
+    "category": "Prophets",
+    "difficulty": "hard",
+    "question": "In Amos, God shows the prophet a plumb line. What does the plumb line represent?",
+    "options": ["God's measurement of the temple", "God's judgment against Israel", "The rebuilding of Jerusalem", "The coming of the Messiah"],
+    "answer": "God's judgment against Israel"
+  },
+  {
+    "id": 118,
+    "category": "Old Testament Details",
+    "difficulty": "hard",
+    "question": "Which book of the Bible describes the return of the exiles under Zerubbabel and the rebuilding of the temple?",
+    "options": ["Nehemiah", "Haggai", "Ezra", "Malachi"],
+    "answer": "Ezra"
+  },
+  {
+    "id": 119,
+    "category": "New Testament Details",
+    "difficulty": "hard",
+    "question": "How many baskets of fragments were collected after Jesus fed the four thousand?",
+    "options": ["5", "7", "10", "12"],
+    "answer": "7"
+  },
+  {
+    "id": 120,
+    "category": "Apostles",
+    "difficulty": "hard",
+    "question": "On which island was the apostle John when he received the visions of Revelation?",
+    "options": ["Cyprus", "Crete", "Malta", "Patmos"],
+    "answer": "Patmos"
+  },
+  {
+    "id": 121,
+    "category": "Old Testament Stories",
+    "difficulty": "easy",
+    "question": "Which book of the Bible begins with 'In the beginning God created the heavens and the earth'?",
+    "options": ["Psalms", "Genesis", "Job", "Isaiah"],
+    "answer": "Genesis"
+  },
+  {
+    "id": 122,
+    "category": "New Testament",
+    "difficulty": "easy",
+    "question": "What profession did Peter, Andrew, James, and John have before following Jesus?",
+    "options": ["Farmers", "Shepherds", "Fishermen", "Carpenters"],
+    "answer": "Fishermen"
+  },
+  {
+    "id": 123,
+    "category": "Bible Characters",
+    "difficulty": "easy",
+    "question": "Who was the first woman mentioned in the Bible?",
+    "options": ["Sarah", "Rebekah", "Eve", "Miriam"],
+    "answer": "Eve"
+  },
+  {
+    "id": 124,
+    "category": "Old Testament Stories",
+    "difficulty": "medium",
+    "question": "In which city did Rahab help the Israelite spies by hiding them with flax on her roof?",
+    "options": ["Ai", "Jericho", "Gibeon", "Hebron"],
+    "answer": "Jericho"
+  },
+  {
+    "id": 125,
+    "category": "New Testament Epistles",
+    "difficulty": "medium",
+    "question": "Who wrote the book of James in the New Testament?",
+    "options": ["James the son of Zebedee", "James the brother of Jesus", "James the Less", "Paul writing under James's name"],
+    "answer": "James the brother of Jesus"
+  },
+  {
+    "id": 126,
+    "category": "Prophets",
+    "difficulty": "medium",
+    "question": "Which prophet saw the famous vision of a large sheet with animals coming down from heaven, teaching about clean and unclean things?",
+    "options": ["Paul", "Peter", "Stephen", "Philip"],
+    "answer": "Peter"
+  },
+  {
+    "id": 127,
+    "category": "Old Testament Details",
+    "difficulty": "medium",
+    "question": "What was the name of King David's closest friend, who was also a son of King Saul?",
+    "options": ["Ish-Bosheth", "Amnon", "Jonathan", "Absalom"],
+    "answer": "Jonathan"
+  },
+  {
+    "id": 128,
+    "category": "New Testament Details",
+    "difficulty": "medium",
+    "question": "Which woman was raised from the dead by Peter in the book of Acts?",
+    "options": ["Lydia", "Priscilla", "Tabitha (Dorcas)", "Mary Magdalene"],
+    "answer": "Tabitha (Dorcas)"
+  },
+  {
+    "id": 129,
+    "category": "Bible Characters",
+    "difficulty": "medium",
+    "question": "Who was the grandmother of Timothy mentioned by Paul as a woman of great faith?",
+    "options": ["Priscilla", "Eunice", "Lois", "Lydia"],
+    "answer": "Lois"
+  },
+  {
+    "id": 130,
+    "category": "Old Testament Stories",
+    "difficulty": "medium",
+    "question": "Which Israelite spies gave a good report after scouting Canaan, while the other ten gave a bad report?",
+    "options": ["Moses and Aaron", "Joshua and Caleb", "Phinehas and Eleazar", "Gad and Asher"],
+    "answer": "Joshua and Caleb"
+  },
+  {
+    "id": 131,
+    "category": "Prophets",
+    "difficulty": "hard",
+    "question": "In which chapter of Isaiah is the famous 'Suffering Servant' passage most fully developed?",
+    "options": ["Isaiah 40", "Isaiah 49", "Isaiah 52-53", "Isaiah 61"],
+    "answer": "Isaiah 52-53"
+  },
+  {
+    "id": 132,
+    "category": "Old Testament Details",
+    "difficulty": "hard",
+    "question": "What were the names of the two pillars at the entrance of Solomon's temple?",
+    "options": ["Jachin and Boaz", "Zion and Moriah", "Urim and Thummim", "Gog and Magog"],
+    "answer": "Jachin and Boaz"
+  },
+  {
+    "id": 133,
+    "category": "New Testament Details",
+    "difficulty": "hard",
+    "question": "What was the Greek term for the council of Jewish elders that governed in Jerusalem alongside the high priest?",
+    "options": ["Pharisees", "Sadducees", "Sanhedrin", "Scribes"],
+    "answer": "Sanhedrin"
+  },
+  {
+    "id": 134,
+    "category": "Bible Characters",
+    "difficulty": "hard",
+    "question": "Which king of Israel reigned the longest, for 41 years, during a period of great prosperity?",
+    "options": ["Omri", "Ahab", "Jeroboam II", "Menahem"],
+    "answer": "Jeroboam II"
+  },
+  {
+    "id": 135,
+    "category": "Prophets",
+    "difficulty": "hard",
+    "question": "Which minor prophet is the shortest book in the Old Testament, written about the judgment of Edom?",
+    "options": ["Nahum", "Obadiah", "Haggai", "Malachi"],
+    "answer": "Obadiah"
+  },
+  {
+    "id": 136,
+    "category": "Old Testament Details",
+    "difficulty": "hard",
+    "question": "According to Deuteronomy, on which mountain did Moses view the Promised Land before he died?",
+    "options": ["Mount Sinai", "Mount Carmel", "Mount Nebo", "Mount Hor"],
+    "answer": "Mount Nebo"
+  },
+  {
+    "id": 137,
+    "category": "New Testament Epistles",
+    "difficulty": "hard",
+    "question": "In which epistle does Paul write that 'all Scripture is God-breathed and useful for teaching, rebuking, correcting and training in righteousness'?",
+    "options": ["1 Timothy", "2 Timothy", "Titus", "Hebrews"],
+    "answer": "2 Timothy"
+  },
+  {
+    "id": 138,
+    "category": "Apostles",
+    "difficulty": "hard",
+    "question": "According to the book of Acts, which apostle performed the first healing miracle after Pentecost, healing a man lame from birth at the temple gate?",
+    "options": ["Peter and John together", "Peter alone", "Stephen", "Philip"],
+    "answer": "Peter and John together"
+  },
+  {
+    "id": 139,
+    "category": "Old Testament Stories",
+    "difficulty": "hard",
+    "question": "When Elisha's servant was afraid of the surrounding army, what did Elisha pray for so the servant could see God's protection?",
+    "options": ["Fire from heaven", "That the servant's eyes would be opened to see the angelic army", "That an earthquake would strike", "That blindness would fall on the enemy"],
+    "answer": "That the servant's eyes would be opened to see the angelic army"
+  },
+  {
+    "id": 140,
+    "category": "New Testament Details",
+    "difficulty": "hard",
+    "question": "In the book of Revelation, what are the names of the two witnesses who prophesy for 1,260 days?",
+    "options": ["Elijah and Moses", "Elijah and Enoch", "Moses and Enoch", "The text does not name them"],
+    "answer": "The text does not name them"
+  },
+  {
+    "id": 141,
+    "category": "Bible Characters",
+    "difficulty": "easy",
+    "question": "What animal spoke to Balaam in the Old Testament?",
+    "options": ["A snake", "A raven", "A donkey", "A dove"],
+    "answer": "A donkey"
+  },
+  {
+    "id": 142,
+    "category": "New Testament",
+    "difficulty": "easy",
+    "question": "What river was Jesus baptized in?",
+    "options": ["Nile", "Euphrates", "Jordan", "Galilee"],
+    "answer": "Jordan"
+  },
+  {
+    "id": 143,
+    "category": "Old Testament Stories",
+    "difficulty": "easy",
+    "question": "How many books are in the Old Testament?",
+    "options": ["27", "30", "39", "46"],
+    "answer": "39"
+  },
+  {
+    "id": 144,
+    "category": "New Testament",
+    "difficulty": "easy",
+    "question": "How many books are in the New Testament?",
+    "options": ["21", "25", "27", "29"],
+    "answer": "27"
+  },
+  {
+    "id": 145,
+    "category": "Psalms & Poetry",
+    "difficulty": "medium",
+    "question": "Which book of the Bible is written as a lament over the destruction of Jerusalem?",
+    "options": ["Jeremiah", "Lamentations", "Ezekiel", "Obadiah"],
+    "answer": "Lamentations"
+  },
+  {
+    "id": 146,
+    "category": "Old Testament Details",
+    "difficulty": "medium",
+    "question": "What was the name of the city where Nehemiah went to rebuild the walls?",
+    "options": ["Samaria", "Hebron", "Jerusalem", "Jericho"],
+    "answer": "Jerusalem"
+  },
+  {
+    "id": 147,
+    "category": "New Testament Details",
+    "difficulty": "medium",
+    "question": "What was the name of the man who helped Jesus carry his cross?",
+    "options": ["Barabbas", "Simon of Cyrene", "Joseph of Arimathea", "Nicodemus"],
+    "answer": "Simon of Cyrene"
+  },
+  {
+    "id": 148,
+    "category": "Prophets",
+    "difficulty": "medium",
+    "question": "Which prophet said 'He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God'?",
+    "options": ["Isaiah", "Amos", "Micah", "Hosea"],
+    "answer": "Micah"
+  },
+  {
+    "id": 149,
+    "category": "Bible Characters",
+    "difficulty": "medium",
+    "question": "What was the name of King Saul's daughter who was given to David as his first wife?",
+    "options": ["Abigail", "Michal", "Bathsheba", "Ahinoam"],
+    "answer": "Michal"
+  },
+  {
+    "id": 150,
+    "category": "New Testament Epistles",
+    "difficulty": "hard",
+    "question": "In Romans 9, Paul uses the story of which two brothers to illustrate the doctrine of God's sovereign election?",
+    "options": ["Cain and Abel", "Ishmael and Isaac", "Jacob and Esau", "Moses and Aaron"],
+    "answer": "Jacob and Esau"
+  }
+]
